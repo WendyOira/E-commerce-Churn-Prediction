@@ -91,13 +91,16 @@ Python, pandas, NumPy, Matplotlib, SciPy, Scikit-learn
 
 ## Collaborators 
 
-Kevin Kiprono 
+Kevin Kiprono
+
 Email: kkiprono4@gmail.com
 
 Jasmine Wakini
+
 Email: jasminewakini@gmail.com
 
 Ruth Nguli
+
 Email:ruthnguli4@gmail.com
 
 ## Contact Details
